@@ -39,6 +39,7 @@ numpy==1.25.2
 openai==0.28.0
 packaging==23.1
 pandas==2.1.0
+pdfminer.six==20221105
 Pillow==9.5.0
 protobuf==4.24.2
 pyarrow==13.0.0
